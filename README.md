@@ -1,3 +1,3 @@
 # git_test
 Hello Odin!
-So I review the lessin in day 2 
+So I review the less0n in day 2
